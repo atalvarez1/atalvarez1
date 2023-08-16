@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atalvarez1
+- 👋 Hi, I’m Adam!
 - 👀 I’m interested in learning how to make cool things with software :)
 - 🌱 I’m currently learning the very basics!
 - 💞️ I’m looking to collaborate on cool projects that people want to use!
