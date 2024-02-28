@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Adam!
-- 👀 I’m interested in learning how to make cool things with software :)
-- 🌱 I’m currently learning the very basics!
-- 💞️ I’m looking to collaborate on cool projects that people want to use!
+Hello! I'm Adam. I am a 10-yr technology professional and data geek. I'm currently a Software Project Manager looking to move into Data Science.
+- 👀 I’m interested in deep, challenging work that has an impact on the world
+- 💞️ I love working with teams and think communication is critical to success
 - 📫 How to reach me alvarez.adamt@gmail.com
 
 <!---
