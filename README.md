@@ -1,4 +1,4 @@
-Hello! I'm Adam. I am a 10-yr technology professional and data geek. I'm currently a Software Project Manager looking to move into Data Science.
+Hello! I'm Adam. I am a longtime technology professional and data geek. I recently completed Bloomtech's Data Science course and looking to pursue a career in Data Analysis.
 - 👀 I’m interested in deep, challenging work that has an impact on the world
 - 💞️ I love working with teams and think communication is critical to success
 - 📫 How to reach me alvarez.adamt@gmail.com
